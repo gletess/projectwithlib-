@@ -1,0 +1,3 @@
+[submodule "sublib"]
+	path = sublib
+	url = https://github.com/gletess/sublib.git
